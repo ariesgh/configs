@@ -5,12 +5,12 @@
         },
         "interstitial": {
             "enabled": true,
-            "timeInterval": 2700.0
+            "timeInterval": 2400.0
         },
         "rewardedVideo": {
             "enabled": true,
-            "bannerReward": 2700,
-            "interstitialReward": 5400
+            "bannerReward": 3000,
+            "interstitialReward": 4200
         },
         "splash": {
             "enabled": false,
@@ -22,6 +22,7 @@
         "Admob": {
             "priority": 80,
             "enabled": true,
+            "applicationID": "",
             "banner": "",
             "interstitial": "",
             "rewardedVideo": "",
