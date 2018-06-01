@@ -1,10 +1,10 @@
 {
     "control": {
         "banner": {
-            "enabled": true
+            "enabled": false
         },
         "interstitial": {
-            "enabled": true,
+            "enabled": false,
             "timeInterval": 2400.0
         },
         "rewardedVideo": {
@@ -14,8 +14,8 @@
         },
         "splash": {
             "enabled": false,
-            "time": 2.8,
-            "validCount": 10
+            "time": 1.8,
+            "validCount": 30
         }
     },
     "monetize": {
