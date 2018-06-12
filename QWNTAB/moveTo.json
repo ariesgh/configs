@@ -1,8 +1,8 @@
 {
-    "enabled": false,
+    "enabled": true,
     "force": false,
-    "title":"",
-    "message":"",
-    "url":"",
+    "title":"此软件暂不再提供更新",
+    "message":"下载新款看书App。\n免费/换源/缓存/多主题\n更加好用等你来体验😀",
+    "url":"https://itunes.apple.com/app/id1393963627?mt=8",
     "platform":"iOS"
 }
