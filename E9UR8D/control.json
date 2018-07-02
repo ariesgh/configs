@@ -1,0 +1,6 @@
+{
+    "locker": {
+        "enabled": true,
+        "free": 30
+    }
+}

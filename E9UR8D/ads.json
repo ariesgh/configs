@@ -1,7 +1,8 @@
 {
     "control": {
         "banner": {
-            "enabled": false
+            "enabled": false,
+            "free": 20
         },
         "interstitial": {
             "enabled": false,
