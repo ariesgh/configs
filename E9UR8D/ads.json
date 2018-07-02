@@ -13,7 +13,7 @@
             "interstitialReward": 4200
         },
         "splash": {
-            "enabled": false,
+            "enabled": true,
             "time": 1.8,
             "validCount": 30
         }
