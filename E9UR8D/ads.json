@@ -15,7 +15,7 @@
         "splash": {
             "enabled": true,
             "time": 1.8,
-            "validCount": 30
+            "validCount": 15
         }
     },
     "monetize": {
