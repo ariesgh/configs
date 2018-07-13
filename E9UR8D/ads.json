@@ -15,7 +15,7 @@
         },
         "splash": {
             "enabled": true,
-            "time": 1.8,
+            "time": 2.5,
             "validCount": 15
         }
     },
