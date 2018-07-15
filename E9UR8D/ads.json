@@ -5,8 +5,8 @@
             "free": 20
         },
         "interstitial": {
-            "enabled": false,
-            "timeInterval": 2400.0
+            "enabled": true,
+            "timeInterval": 102400.0
         },
         "rewardedVideo": {
             "enabled": true,
