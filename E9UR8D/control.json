@@ -1,6 +1,6 @@
 {
     "locker": {
-        "enabled": true,
+        "enabled": false,
         "free": 50,
         "share":{
             "enabled": true,
