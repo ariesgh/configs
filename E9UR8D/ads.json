@@ -2,7 +2,7 @@
     "control": {
         "banner": {
             "enabled": true,
-            "free": 20
+            "free": 10
         },
         "interstitial": {
             "enabled": true,
@@ -14,9 +14,9 @@
             "interstitialReward": 4200
         },
         "splash": {
-            "enabled": false,
+            "enabled": true,
             "time": 1.5,
-            "validCount": 15
+            "validCount": 10
         }
     },
     "monetize": {
