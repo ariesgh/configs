@@ -1,0 +1,19 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": [
+        {
+            "id": "i64Z6FdpnvugQlg4",
+            "type": "activity",
+            "title": "<p>祝书友们<span style=\"font-weight: bold;\">新年快乐</span>🎉</p>",
+            "content": "<p>下载新版软件，增加<b>排行榜</b>和<b>分类榜单</b>。</p><p>优化阅读，更增加了<span style=\"color: rgb(70, 172, 200);\">滑动模式</span>。</p><p>新春<span style=\"color: rgb(194, 79, 74);\">无广告</span>，欢迎老书友下载使用。</p><p>新年快乐，记得给新App一个<span style=\"font-weight: bold;\">五星好评</span>哦。</p>",
+            "short": "来下载新App·新增滑动看书模式",
+            "deeplink": "//app?id=1451044937",
+            "hidden": false,
+            "prompt": true,
+            "duration": 120.0,
+            "create_time": "2019-02-04T01:44:38+08:00",
+            "update_time": null
+        }
+    ]
+}
