@@ -1,0 +1,34 @@
+{
+    "control": {
+        "banner": {
+            "enabled": false,
+            "free": 10
+        },
+        "interstitial": {
+            "enabled": false,
+            "timeInterval": 102400.0
+        },
+        "rewardedVideo": {
+            "enabled": false,
+            "bannerReward": 3000,
+            "interstitialReward": 4200
+        },
+        "splash": {
+            "enabled": false,
+            "time": 1.5,
+            "validCount": 10
+        }
+    },
+    "monetize": {
+        "Admob": {
+            "priority": 80,
+            "enabled": true,
+            "applicationID": "",
+            "banner": "",
+            "interstitial": "",
+            "rewardedVideo": "",
+            "native": "",
+            "splash": ""
+        }
+    }
+}

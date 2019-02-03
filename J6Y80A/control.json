@@ -1,0 +1,14 @@
+{
+    "locker": {
+        "enabled": false,
+        "free": 50,
+        "share":{
+            "enabled": true,
+            "unlockAll": true
+        },
+        "ad":{
+            "enabled": true,
+            "unlock": 20
+        }
+    }
+}

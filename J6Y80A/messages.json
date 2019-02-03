@@ -1,0 +1,19 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": [
+        {
+            "id": "i64Z6FdpnvugQlg4",
+            "type": "activity",
+            "title": "<p>祝书友们<span style=\"font-weight: bold;\">新年快乐</span>🎉</p>",
+            "content": "<p>即日起只要给我们<span style=\"font-weight: bold;\">五星好评</span>，即可在春节期间<span style=\"color: rgb(194, 79, 74);\">移除所有广告</span>。</p><p>点击跳转到<设置页面--评价我们></p><p>祝贺新老书友，新春快乐🎉。</p>",
+            "short": "好评·可获得新春期间移除广告",
+            "deeplink": "//settings",
+            "hidden": false,
+            "prompt": true,
+            "duration": 120.0,
+            "create_time": "2019-02-04T01:23:38+08:00",
+            "update_time": null
+        }
+    ]
+}
