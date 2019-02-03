@@ -1,0 +1,13 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data":[
+        {
+            "id": "lJudrzfam02TmBLI",
+            "type": "text",
+            "enabled": true,
+            "content": "开心过年·快乐看书\n下载·新春无广告·最新版本",
+            "deeplink": "//app?id=1451044937"
+        }
+    ]
+}
