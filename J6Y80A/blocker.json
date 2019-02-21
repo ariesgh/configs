@@ -1,12 +1,18 @@
 {
     "books":[ 
-        "鬼吹灯",
-        "盗墓笔记",
-        "琅琊榜",
-        "择天记",
-        "圣墟",
-        "修真聊天群",
-        "牧神记"
+        { "title": "鬼吹灯", "author": "" },
+        { "title": "盗墓笔记", "author": "南派三叔" },
+        { "title": "琅琊榜", "author": "海宴" },
+        { "title": "择天记", "author": "猫腻" },
+        { "title": "圣墟", "author": "辰东" },
+        { "title": "修真聊天群", "author": "圣骑士的传说" },
+        { "title": "牧神记", "author": "宅猪" },
+        { "author": "南派三叔" },
+        { "author": "海宴" },
+        { "author": "猫腻" },
+        { "author": "辰东" },
+        { "author": "圣骑士的传说" },
+        { "author": "宅猪" }
     ],
     "copyrights": [
     ],
